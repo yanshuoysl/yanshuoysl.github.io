@@ -392,10 +392,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-page-facing-up-2-papers-multi-robot-search-multi-object-search-accepted-by-icra-24",
-          title: ':Page Facing Up: 2 papers (multi-robot search, multi-object search) accepted by ICRA’24!',
+          title: ':page_facing_up: 2 papers (multi-robot search, multi-object search) accepted by ICRA’24!',
           description: "",
-          section: "News",},{id: "news-office-building-began-working-as-a-full-time-research-assistant-at-national-central-university",
-          title: ':Office Building: Began working as a full-time research assistant at National Central University....',
+          section: "News",},{id: "news-office-began-working-as-a-full-time-research-assistant-at-national-central-university",
+          title: ':office: Began working as a full-time research assistant at National Central University.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
