@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:Page Facing Up: 2 papers (multi-robot search, multi-object search) accepted by ICRA'24!
+:page_facing_up: 2 papers (multi-robot search, multi-object search) accepted by ICRA'24!

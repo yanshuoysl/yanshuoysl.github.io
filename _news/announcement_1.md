@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:Office Building: Began working as a full-time research assistant at National Central University.
+:office: Began working as a full-time research assistant at National Central University.
