@@ -12,7 +12,7 @@ profile:
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -24,8 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-I am a research assistant at National Central University in Taiwan.
 
 My research focuses on multi-robot systems, decision making, and reinforcement learning. Currently, I work on multi-robot informative path planning under uncertainty, developing learning-based algorithms for coordinated exploration and search.
 
