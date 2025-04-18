@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/github.com/yanshuoysl/yanshuoysl.github.io/tree/main/assets/pdf/Yanshuo_Li.pdf";
+            window.location.href = "/assets/pdf/Yanshuo_Li.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
