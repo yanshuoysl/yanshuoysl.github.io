@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:office: Began working as a full-time research assistant at National Central University.
+:sparkles: Began working as a full-time research assistant at National Central University.
