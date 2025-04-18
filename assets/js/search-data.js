@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/github.com/yanshuoysl/yanshuoysl.github.io/tree/main/assets/pdf/Yanshuo_Li.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -391,11 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-page-facing-up-2-papers-multi-robot-search-multi-object-search-accepted-by-icra-24",
-          title: ':page_facing_up: 2 papers (multi-robot search, multi-object search) accepted by ICRA’24!',
+            },},{id: "news-sparkles-2-papers-multi-robot-search-multi-object-search-accepted-by-icra-24",
+          title: ':sparkles: 2 papers (multi-robot search, multi-object search) accepted by ICRA’24!',
           description: "",
-          section: "News",},{id: "news-office-began-working-as-a-full-time-research-assistant-at-national-central-university",
-          title: ':office: Began working as a full-time research assistant at National Central University.',
+          section: "News",},{id: "news-sparkles-began-working-as-a-full-time-research-assistant-at-national-central-university",
+          title: ':sparkles: Began working as a full-time research assistant at National Central University.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
