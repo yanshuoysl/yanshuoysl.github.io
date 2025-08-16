@@ -391,11 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-sparkles-2-papers-multi-robot-search-multi-object-search-accepted-by-icra-24",
-          title: ':sparkles: 2 papers (multi-robot search, multi-object search) accepted by ICRA’24!',
+            },},{id: "news-sparkles-our-papers-casmo-mrsis-were-accepted-at-icra-2024",
+          title: ':sparkles: Our papers (CASMO, MRSIS) were accepted at ICRA 2024!',
           description: "",
-          section: "News",},{id: "news-sparkles-began-working-as-a-full-time-research-assistant-at-national-central-university",
-          title: ':sparkles: Began working as a full-time research assistant at National Central University.',
+          section: "News",},{id: "news-sparkles-i-began-working-as-a-full-time-research-assistant-at-national-central-university",
+          title: ':sparkles: I began working as a full-time research assistant at National Central University....',
+          description: "",
+          section: "News",},{id: "news-sparkles-i-will-give-a-talk-at-the-ncu-math-amp-amp-ai-workshop",
+          title: ':sparkles: I will give a talk at the NCU Math &amp;amp;amp; AI Workshop....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
