@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Asistant | National Central University
+subtitle: Research Asistant | Robotic Search Lab, National Central University
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research focuses on multi-robot systems, decision making, and reinforcement learning. Currently, I work on multi-robot informative path planning under uncertainty, developing learning-based algorithms for coordinated exploration and search.
+My research focuses on multi-robot systems, decision making, and reinforcement learning. I developed learning-based algorithms for multi-robot search and exploration, with a particular interest in submodular optimization under uncertainty. Currently, I am extending these ideas to a robotic chef project, where I explore how Vision-Language-Action (VLA) models, combined with submodularity, can enable robots to perform complex cooking tasks in a reliable and efficient manner.
 
 I received my M.S. in Mathematics from [National Central University](https://www.ncu.edu.tw/en/index.php), where I was advised by Prof. [Kuo-Shih Tseng](https://sites.google.com/site/kuoshihtseng/). I completed my B.S. in Computer and Communication Engineering at [Ming Chuan University](https://web2.mcu.edu.tw/en/), working with Prof. Chaur-Heh Hsieh on deep learning models for atrial fibrillation detection.
 
