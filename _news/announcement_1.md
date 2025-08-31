@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-01 07:59:00-0400
+date: 2025-08-25 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-:sparkles: I began working as a full-time research assistant at National Central University.
+:sparkles: One paper ([MRSM]()) was accepted in IJRR!

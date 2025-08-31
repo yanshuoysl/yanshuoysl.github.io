@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: Our papers ([CASMO](https://ieeexplore.ieee.org/document/10610369), [MRSIS](https://ieeexplore.ieee.org/document/10610393)) were accepted at ICRA 2024!
+:sparkles: Two papers ([CASMO](https://ieeexplore.ieee.org/document/10610369), [MRSIS](https://ieeexplore.ieee.org/document/10610393)) were accepted at ICRA 2024!
