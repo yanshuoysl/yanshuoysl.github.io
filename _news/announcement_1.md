@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: One paper ([MRSM]()) was accepted in IJRR!
+:sparkles: One paper ([MRSM](https://doi.org/10.1177/02783649251379517)) was accepted in IJRR!
