@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Asistant | Robotic Search Lab, National Central University
+subtitle: Ph.D. Student in Aerospace Engineering at Virginia Tech
 
 profile:
   align: right
-  image: prof_pic.jpg 
+  image: prof_pic_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
@@ -25,8 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research focuses on multi-robot systems, decision making, and reinforcement learning. I developed learning-based algorithms for multi-robot search and exploration, with a particular interest in submodular optimization under uncertainty. Currently, I am extending these ideas to a robotic chef project, where I explore how Vision-Language-Action (VLA) models, combined with submodularity, can enable robots to perform complex cooking tasks in a reliable and efficient manner.
+I am a Ph.D. student in the Department of Aerospace and Ocean Engineering at Virginia Tech, advised by Prof. [Qi Heng Ho](https://qihengho.com/). My research focuses on **safe and adaptive decision-making** for autonomous robots operating under uncertainty. I study how robots can infer changes in their environment, dynamics, or embodiment and adapt online while continuing to satisfy safety and task requirements.
 
-I received my M.S. in Mathematics from [National Central University](https://www.ncu.edu.tw/en/index.php), where I was advised by Prof. [Kuo-Shih Tseng](https://sites.google.com/site/kuoshihtseng/). I completed my B.S. in Computer and Communication Engineering at [Ming Chuan University](https://web2.mcu.edu.tw/en/), working with Prof. Chaur-Heh Hsieh on deep learning models for atrial fibrillation detection.
+<!-- **Research goal:** Bridge mathematical guarantees and real-world robotics so that autonomous systems remain reliable under partial observability, model mismatch, distribution shifts, and unexpected failures. -->
 
-Prior to returning to academia, I gained industry experience at [EverComm](https://evercomm.io/) and [TAO Info](https://sites.google.com/taoinfo.com.tw/taoinfo/%E9%A6%96%E9%A0%81), applying AI to solar energy monitoring and pharmaceutical automation.
+**Research interests:**
+- Planning under uncertainty and POMDPs
+- Safety guarantees and uncertainty quantification
+- Multi-robot planning
+
+**Research question:** How can autonomous robots adapt safely when their environment, dynamics, or embodiment are uncertain and changing?
+
+Prior to Virginia Tech, I received my M.S. in Mathematics from [National Central University](https://www.ncu.edu.tw/?Lang=en), where I was advised by Prof. [Kuo-Shih Tseng](https://sites.google.com/site/kuoshihtseng/). At the Robotic Search Lab, I developed informative path planning algorithms for multi-robot search and exploration, with an emphasis on submodular optimization and matroid theory. I completed my B.S. in Computer and Communication Engineering at [Ming Chuan University](https://web2.mcu.edu.tw/en/), where I worked with Prof. Chaur-Heh Hsieh on deep learning for atrial fibrillation detection.
